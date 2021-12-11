@@ -4,7 +4,6 @@ seorang produser musik multi genre, seorang player campaign & modder mindustry (
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=12fd1m&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=dark&title_color=b9f2ff&text_color=b9f2ff)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=12fd1m)
-![Breaking Mindustry Repository View Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/12fd1m/breaking-mindustry)
 
 - [Breaking Mindustry (mod untuk mindustry v5)](https://github.com/12fd1m/breaking-mindustry)
 - [Channel Youtube utama gw, disana gw upload musik (1237)](https://www.youtube.com/channel/UCfaCDOzt7a1zBD48xss7bOQ)
