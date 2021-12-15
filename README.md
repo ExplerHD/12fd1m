@@ -7,7 +7,6 @@ seorang produser musik multi genre, seorang player campaign & modder mindustry (
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=12fd1m)](https://github.com/ryo-ma/github-profile-trophy)
 
-- [Breaking Mindustry (mod untuk mindustry v5)](https://github.com/12fd1m/breaking-mindustry)
 - [Channel Youtube utama gw, disana gw upload musik (1237)](https://www.youtube.com/channel/UCfaCDOzt7a1zBD48xss7bOQ)
 - [Channel Gaming gw, disana gw upload konten Mindustry (12fd1m)](https://www.youtube.com/channel/UCDQSc8IQxRXk-2bG2xJzU2w)
 - [Artist Profile gw di Bandcamp](https://1237.bandcamp.com)
